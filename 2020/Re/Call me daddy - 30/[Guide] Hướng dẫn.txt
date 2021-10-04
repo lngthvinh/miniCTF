@@ -1,0 +1,12 @@
+Sử dụng Sublime Text hoặc công cụ đọc
+
+viết chương trình python đơn giản:
+
+str = 'hrqbmtczqsnfs`llhofC`rhb|'
+flag = ''
+for i in str:
+    flag += chr(ord(i) ^ 1)
+
+print(flag)
+
+Tìm thấy cờ: ispclub{programmingBasic}

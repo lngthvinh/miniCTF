@@ -1,0 +1,6 @@
+Hint là "filename extension"
+Kiểm tra I_DO_NOT_HIDE_ANYTHING.jpeg, 2 bytes cuối file jpeg phải là FF D9
+Dùng tool binwalk để kiểm tra file ẩn trong ảnh
+Dùng tool foremost để giải nén tất cả file ẩn
+
+Tìm thấy cờ: ispclub{welcome_and_have_fun}

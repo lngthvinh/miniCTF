@@ -1,0 +1,1 @@
+Hắc cờ Chick Chick đã bị bắt!!!! Nhưng nó đang nhảy múa??? Phải chăng đó là một loại mật mã???!

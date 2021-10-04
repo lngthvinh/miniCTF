@@ -1,0 +1,3 @@
+Quan sát các kí tự SPELL và vị trí trên Magic_circle tìm ra quy luật.
+
+Tìm thấy cờ: ispclub{thebestwizard}
