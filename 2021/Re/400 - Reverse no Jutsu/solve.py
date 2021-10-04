@@ -1,0 +1,38 @@
+ninjutsu = [0] * 50
+ninjutsu[int(eval('0x1c'))]        = 'r'
+ninjutsu[int(eval('18/9'))] = 'P' 
+ninjutsu[int(eval('14'))]           = '0' 
+ninjutsu[int(eval('21+2*10+2-22'))] = '_' 
+ninjutsu[int(eval('3'))]  		   = 'C' 
+ninjutsu[int(eval('24'))]           = 'i' 
+ninjutsu[int(eval('18/6*10'))]      = 'm' 
+ninjutsu[int(eval('6'))]            = 'B' 
+ninjutsu[int(eval('9'))]            = '3' 
+ninjutsu[int(eval('10'))]    	   = 'x' 
+ninjutsu[int(eval('12'))]           = '_' 
+ninjutsu[int(eval('5'))]            = 'U' 
+ninjutsu[int(eval('16'))]           = 'j' 
+ninjutsu[int(eval('23'))]           = '4' 
+ninjutsu[int(eval('17'))]           = 'n' 
+ninjutsu[int(eval('4'))]            = 'L' 
+ninjutsu[int(eval('18+9-2+2-9'))]   = 't' 
+ninjutsu[int(eval('20'))]           = 'u' 
+ninjutsu[int(eval('0'))]            = 'I' 
+ninjutsu[int(eval('22'))]           = 'K' 
+ninjutsu[int(eval('7'))]            = '{' 
+ninjutsu[int(eval('11'))]           = 'Y' 
+ninjutsu[int(eval('0x1b'))]         = '4' 
+ninjutsu[int(eval('13'))]           = 'n' 
+ninjutsu[int(eval('5*5'))]          = '_' 
+ninjutsu[int(eval('8'))]            = 's' 
+ninjutsu[int(eval('26'))]           = 'h' 
+ninjutsu[int(eval('1'))]            = 'S' 
+ninjutsu[int(eval('29'))]           = '3' 
+ninjutsu[int(eval('15'))]           = '_' 
+ninjutsu[int(eval('21*2-23'))]      = '5' 
+ninjutsu[int(eval('31'))]           = '}'
+
+flag = "".join([str(i) for i in ninjutsu])
+print(flag)
+
+# ISPCLUB{s3xY_n0_jnt5u_K4i_h4r3m}
