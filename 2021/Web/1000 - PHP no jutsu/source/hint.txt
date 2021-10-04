@@ -1,0 +1,9 @@
+<?php
+if (isset($_GET["password"])) {
+    if (hash("md5", $_GET["password"]) == $_GET["password"]) {
+       echo $flag;
+    }
+    else {
+        echo "Try again bro";
+    }
+}
