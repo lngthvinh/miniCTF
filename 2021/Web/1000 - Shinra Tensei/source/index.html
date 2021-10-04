@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🍓🍓🍄🍄🌴🌴🐤🐤🎂🎂</title>
+</head>
+<style>
+    body {
+        pointer-events: none;
+        cursor: none;
+        margin: 0;
+        padding: 0;
+        background: url(bg.png);
+    }
+
+    a[data-id="countdown"] {
+        display: none;
+    }
+
+    .flag {
+        text-align: center;
+        color: white;
+    }
+</style>
+
+<body onselectstart="return false">
+    <script src="wasm_exec.js"></script>
+    <script>
+        const go = new Go();
+        let mod, inst;
+        /* ================================ Flag in here :D ================================  */
+        WebAssembly.instantiateStreaming(fetch("main.wasm"), go.importObject)
+            .then(async result => {
+                go.run(result.instance);
+            })
+        /* ================================Happy hacking!!! ================================ */
+        window.addEventListener('click', (e) => {
+            e.preventDefault()
+        })
+        document.oncontextmenu = () => {
+            return false
+        }
+        document.exitPointerLock()
+        document.documentElement.style.cursor = 'none';
+    </script>
+</body>
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-qbqt" class="countdown-timer" data-style="flip3" data-timezone="Europe/London"
+    data-language="vi" data-textcolor="#ffffff" data-date="2021-11-01 00:00" data-unitscolor="#e3e3e3">Flag sẽ xuất hiện
+    sau:</a>
+
+</html>
