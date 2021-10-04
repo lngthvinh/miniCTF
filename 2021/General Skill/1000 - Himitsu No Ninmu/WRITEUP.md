@@ -76,7 +76,7 @@ Cuối cùng ta được gợi ý tiếp theo: `pastebin.com/S9Dhfayc`
 Gợi ý tiếp theo là 1 đoạn âm thanh có chứa mã Morse. <br>
 Tìm tên bài hát trên youtube ta được bài nhạc gốc cũng chứa mã Morse. <br>
 [Is There Still Anything That Love Can Do?](https://www.youtube.com/watch?v=J97ORP768HI) <br>
-Tìm trong phần bình luận. Đây là Easter Egg của film Weathering With You (Tenki no Ko) <br>
+Tìm trong phần bình luận. Đây là Easter Egg của phim Weathering With You (Tenki no Ko) <br>
 ```
 Cm Gorgonia 8 tháng trước
 Anyone noticed the morse code at the end? it starts from 6:35 and according to redditors who decoded it here's what it says:
@@ -98,7 +98,7 @@ Link gợi ý tiếp thep: `twitter.com/shitawahareruyo`
 ## Map
 
 Gợi ý yêu cầu xác định tên tòa nhà được dùng để chụp bức ảnh. <br>
-Pass truy cập link pastebin là tên toàn nhà.
+Pass truy cập link pastebin là tên toà nhà.
 
 Tìm kiếm địa chỉ tòa nhà đối diện: <br>
 45 Lê Ngọc Hân, Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội, Việt Nam
