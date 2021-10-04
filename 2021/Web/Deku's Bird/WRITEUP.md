@@ -1,0 +1,5 @@
+# WRITEUP
+
+Thay đổi giá trị cookie bestcore = 9999999999999999999999999999
+
+> ISPCLUB{4_G00D_PL4Y3R}
