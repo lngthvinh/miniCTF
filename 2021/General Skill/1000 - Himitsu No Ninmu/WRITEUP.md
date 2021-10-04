@@ -1,0 +1,111 @@
+# WRITEUP
+
+## Tupper's formula
+
+```
+2458519300759866684289906767899509838671324135125105508854301564802181254044593494557461995073604419583793194671591533917281808912221749134985505400356571202126403754854401973703256043400323080875435424579580019326149595776976118222796211312899228634581724886122996491394525884241081021832501397290274156431093526065545535355583944403383624739920370805029638096209119479346555713916925774652947562270162961651894215588912051821675031880287881677838035789598370627328
+```
+
+[Tupper's Formula Tools](https://tuppers-formula.ovh/) > watch?v=Ht_8roqxwLw (youtube)
+
+## Decode
+
+Truy cập link youtube. Ta được gợi ý tiếp theo.
+
+```
+31362d363a20343920343820343520353020353820333220343820353420353420343
+820353420353220343820353520353020343920353020353020343920353320353320
+343920353320353220343920353420353320343920353120343920343920353020353
+520343920353420353520343820353420353420343920343920343920343920343820
+353520343920353320343820343820353420343820343920353220353220343920343
+920343820343920343820353020343920353520353020343920343920353520343920
+353320343920343820353520343820343920353420353420343920353220353120343
+920343820353520343920343820353420343920353520353020343920353220353220
+343920343820353520343920353020353420343920353320343920343920353220343
+920343920353020353520343820353420353220343920353420353320343920353120
+343920343820353420353020343820353520343920343920353420353220343920343
+920353220343820353420343820343920353320343820343920353120343820343920
+353220353120343920343920343820343920353020353020343920353420353520343
+9203530203534203439203530203534203439203439203530203438203534203438
+```
+
+hex > ascii > `16-6: 49 48 45 50 58 32 48 54 54 48 54 52 48 55 50 49 50 50 49 53 53 49 53 52 49 54 53 49 51 49 49 50 55 49 54 55 48 54 54 49 49 49 49 48 55 49 53 48 48 54 48 49 52 52 49 49 48 49 48 50 49 55 50 49 49 55 49 53 49 48 55 48 49 54 54 49 52 51 49 48 55 49 48 54 49 55 50 49 52 52 49 48 55 49 50 54 49 53 49 49 52 49 49 50 55 48 54 52 49 54 53 49 51 49 48 54 50 48 55 49 49 54 52 49 49 52 48 54 48 49 53 48 49 51 48 49 52 51 49 49 48 49 50 50 49 54 55 49 50 54 49 50 54 49 49 50 48 54 48`
+
+Do 16 - 6 = 10 => Decimal
+
+dec > ascii > `10-2: 066064072122155154165131127167066111107150060144110102172117151070166143107106172144107126151141127064165131062071164114060150130143110122167126126112060`
+
+Do 10 - 2 = 8 => Octal
+
+oct > ascii > `64:RmluYWw6IGh0dHBzOi8vcGFzdGViaW4uY29tL0hXcHRwVVJ0`
+
+base64 decode > `Final: https://pastebin.com/HWptpURt`
+
+## Lyrics
+
+Gợi ý tiếp theo.
+
+```
+At the END OF THE WORLD there is a SLEEPING BEAUTY. To get there, be GENIUS and always remember the LYRICS.
+
+Rule 1: spacedoesnotmatter
+Rule 2: Forget the special characters
+Rule 3: Remove all []
+Rule 4: see all in lowercase
+
+a = 1:5
+b = 2:1
+c = 5:10
+d = 6:2
+e = 7:1
+f = 10:1
+g = 10:15
+
+pastebin.com/A9Bcdefg
+```
+
+Tìm kiếm lời nhạc END OF THE WORLD SLEEPING BEAUTY LYRICS <br>
+1:5 tương ứng dòng 1 chữ thứ 5 <br>
+2:1 tương ứng dòng 2 chữ thứ 1 <br>
+Lưu ý: `A9Bcdefg` > vị trí chữ A và B viết hoa
+
+Cuối cùng ta được gợi ý tiếp theo: `pastebin.com/S9Dhfayc`
+
+## Morse Code
+
+Gợi ý tiếp theo là 1 đoạn âm thanh có chứa mã Morse. <br>
+Tìm tên bài hát trên youtube ta được bài nhạc gốc cũng chứa mã Morse. <br>
+[Is There Still Anything That Love Can Do?](https://www.youtube.com/watch?v=J97ORP768HI) <br>
+Tìm trong phần bình luận. Đây là Easter Egg của film Weathering With You (Tenki no Ko) <br>
+```
+Cm Gorgonia 8 tháng trước
+Anyone noticed the morse code at the end? it starts from 6:35 and according to redditors who decoded it here's what it says:
+(This is Japanese morse code btw, its called Wabun)
+
+– – . – – / – – . – . / – . / – . . . / – . . . / – – – / – . – – . / – –
+
+ア/シ/タ/ハ/ハ/レ/ル/ヨ
+
+明日は晴れるよ
+
+"Ashita wa hareru yo" - "Tomorrow will be sunny."
+```
+
+"blue bird icon" tức là twitter <br>
+Lấy 15 ký tự cuối "Ashita wa hareru yo" <br>
+Link gợi ý tiếp thep: `twitter.com/shitawahareruyo`
+
+## Map
+
+Gợi ý yêu cầu xác định tên tòa nhà được dùng để chụp bức ảnh. <br>
+Pass truy cập link pastebin là tên toàn nhà.
+
+Tìm kiếm địa chỉ tòa nhà đối diện: <br>
+45 Lê Ngọc Hân, Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội, Việt Nam
+
+Sử dụng google map xác đinh tòa nhà được dùng để chụp bức ảnh là Ruby Plaza. <br>
+Vậy pass là `rubyplaza`
+
+Tìm được flag:
+> ISPCLUB{w3lc0me_t0_1nn3r_s4nCtuM}
+
