@@ -1,4 +1,4 @@
-Chuunin Exam
+# Chuunin Exam
 
 💰 976
 
