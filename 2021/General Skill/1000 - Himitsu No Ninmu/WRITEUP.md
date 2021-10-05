@@ -103,7 +103,7 @@ Pass truy cập link pastebin là tên toà nhà.
 Tìm kiếm địa chỉ tòa nhà đối diện: <br>
 45 Lê Ngọc Hân, Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội, Việt Nam
 
-Sử dụng google map xác đinh tòa nhà được dùng để chụp bức ảnh là Ruby Plaza. <br>
+Sử dụng google map xác định tòa nhà được dùng để chụp bức ảnh là Ruby Plaza. <br>
 Vậy pass là `rubyplaza`
 
 Tìm được flag:
