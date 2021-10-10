@@ -80,6 +80,7 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 ...
 ```
 
+* Bên trong file .rar có chưa flag.txt nhưng không mở được do yêu cầu password.
 
 
 
