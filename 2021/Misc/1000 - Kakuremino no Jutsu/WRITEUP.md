@@ -27,6 +27,7 @@ Nội dung file hint2.txt
 What is the name of the mountain containing this scroll?
 ```
 
+File ảnh
 <img src=solve/010919.png>
 
 * Tiếp tục kiểm tra file ảnh.
