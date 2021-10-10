@@ -14,7 +14,7 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 83762         0x14732         RAR archive data, version 5.x
 ```
 
-* Phát hiện có file .rar bên trong ảnh. Tiến hành giải nén file ảnh.
+* Phát hiện có file .rar bên trong ảnh. Tiến hành giải nén file ảnh với option `-e`.
 
 ```
 # binwalk -e Scroll.png
