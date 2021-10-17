@@ -22,11 +22,8 @@ def encode(plain):
     x = left(x,32)
     return x
 
-def rUp(x, size):
-    outs = []
-    for i in range(size):
-        s = x[i*8:i*8+8]
-        outs.append(chr(int(s,2) >> 1))
+def rUp(x):
+    outs = [chr(int(x[i:i+8],2) >> 1) for i in range(0, len(x), 8)] 
     return ''.join(outs)
 
 def rRight(x,d):
@@ -34,13 +31,12 @@ def rRight(x,d):
     return x
 
 def decode(plain):
-    size = int(len(plain) / 8)
     d = 32
 
     x = left(plain,d)
     x = down(x)
     x = rRight(x,d)
-    s = rUp(x, size)
+    s = rUp(x)
     return s
 
 def main():
