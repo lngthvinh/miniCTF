@@ -2,7 +2,7 @@
 
 * Mở Inspect để kiểm tra.
 
-* Phát hiện có 1 tag `span` ko hiển thị do size 0em.
+* Phát hiện có 1 tag `span` ko hiển thị do `font-size: 0em`.
 
 ![](temp/1.png)
 
@@ -14,5 +14,5 @@
 
 ![](temp/3.png)
 
-> 
+> ISPCLUB{c$$_!5_v3ry_34sy}
 
