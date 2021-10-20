@@ -82,5 +82,9 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 
 * Bên trong file .rar có chưa flag.txt nhưng không mở được do yêu cầu password.
 
+* Theo như nội dung file F^ck ta có sky và ảnh được sử dụng để nhúng cũng liên quan đến bầu trời. Vậy guess pass là `SKY`.
 
+* Giải nén với pass `SKY` ta lấy được flag.
+
+> ISPCLUB{h1d3_f1l3_1n_p1ctur3}
 
